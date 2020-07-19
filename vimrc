@@ -1,0 +1,1 @@
+set nowrap                " don't wrap text
